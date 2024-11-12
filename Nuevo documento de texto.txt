@@ -1,2 +1,2 @@
-import prueba
+import prueba2
 import otra
